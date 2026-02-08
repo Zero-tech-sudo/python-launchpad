@@ -1,2 +1,22 @@
-# python-launchpad
-An interactive Mission Control dashboard built with Python and Streamlit to track coding goals and visualize learning data.
+# 🚀 The Python Launchpad
+
+Welcome to **The Python Launchpad**! This is a web-based dashboard designed to help new developers track their coding journey while exploring the power of Python.
+
+## ✨ Features
+- **Personalized Pilot Stats:** Custom inputs for user names and ranks.
+- **Mission Tracker:** Interactive checklist for daily coding tasks.
+- **Data Visualization:** Real-time line charts showing learning velocity using Pandas.
+- **Responsive UI:** Clean, dual-column layout with a sidebar control panel.
+
+## 🛠️ Tech Stack
+- **Language:** [Python](https://www.python.org/)
+- **Framework:** [Streamlit](https://streamlit.io/)
+- **Data:** [Pandas](https://pandas.pydata.org/)
+
+## 🚀 How to Run Locally
+1. Clone this repo.
+2. Install requirements: `pip install streamlit pandas`
+3. Run the app: `streamlit run app.py`
+
+---
+Built with ❤️ by [Your Name]
